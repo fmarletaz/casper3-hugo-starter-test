@@ -11,8 +11,8 @@ title = "Hugo Themes"
 [[menu.main]]
 identifier = "Publications"
 name = "Publications"
-url = ""
-weight = nil
+url = "/Publications/"
+weight = 20
 [[menu.main]]
 identifier = "about"
 name = "About"
